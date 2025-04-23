@@ -40,6 +40,7 @@ function InvestmentChart({ data }) {
                     border: 'none',
                     borderRadius: '5px',
                     cursor: 'pointer',
+                    display: 'none'
                 }}
             >
                 Exportar Gráfico
